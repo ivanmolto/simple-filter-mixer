@@ -1,7 +1,7 @@
 Simple Filter Sample
 ====================
 
-Simple Filter Sample is an example application for Windows Phone demonstrating the use of Nokia Imaging SDK APIs, combining multiple filters together and demonstrating each of the available filter in the SDK.
+Simple Filter Sample is an example application for Windows Phone demonstrating the use of Nokia Imaging SDK APIs, combining multiple filters together and demonstrating each of the available filter in the SDK. This sample also demonstrates on-demand creation of the filters using reflection.
 
 This example application is hosted in GitHub:
 https://github.com/nokia-developer/simple-filter-sample/
