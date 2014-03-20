@@ -81,7 +81,7 @@ Downloads
 
 | Project | Release | Download |
 | ------- | --------| -------- |
-| Simple Filter Mixer | v1.0 | [simple-filter-sample-1.0.zip](https://github.com/nokia-developer/simple-filter-mixer/archive/v1.0.zip) |
+| Simple Filter Mixer | v1.0 | [simple-filter-mixer-1.0.zip](https://github.com/nokia-developer/simple-filter-mixer/archive/v1.0.zip) |
 
 
 Version history
