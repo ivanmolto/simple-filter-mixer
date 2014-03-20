@@ -5,11 +5,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Simple Filter Sample")]
+[assembly: AssemblyTitle("Simple Filter Mixer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Simple Filter Sample")]
+[assembly: AssemblyProduct("Simple Filter Mixer")]
 [assembly: AssemblyCopyright("Copyright © Nokia 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

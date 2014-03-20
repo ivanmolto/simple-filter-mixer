@@ -6,9 +6,9 @@ using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using ImagingSDKSamples.Resources;
+using SimpleFilterMixer.Resources;
 
-namespace ImagingSDKSamples
+namespace SimpleFilterMixer
 {
     public partial class App
     {

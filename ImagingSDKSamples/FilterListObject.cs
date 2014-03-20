@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace ImagingSDKSamples
+namespace SimpleFilterMixer
 {
     public class FilterListObject : IEnumerable
     {

@@ -1,6 +1,6 @@
-﻿using ImagingSDKSamples.Resources;
+﻿using SimpleFilterMixer.Resources;
 
-namespace ImagingSDKSamples
+namespace SimpleFilterMixer
 {
     /// <summary>
     /// Provides access to string resources.

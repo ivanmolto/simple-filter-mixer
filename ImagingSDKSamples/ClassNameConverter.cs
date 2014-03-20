@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Windows.Data;
 
-namespace ImagingSDKSamples
+namespace SimpleFilterMixer
 {
     public class ClassNameConverter : IValueConverter
     {

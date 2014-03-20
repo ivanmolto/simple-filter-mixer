@@ -7,7 +7,7 @@ using Microsoft.Phone.Tasks;
 using Nokia.Graphics.Imaging;
 using System.Windows.Media.Imaging;
 
-namespace ImagingSDKSamples
+namespace SimpleFilterMixer
 {
     public partial class MainPage
     {
