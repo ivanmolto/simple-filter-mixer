@@ -1,10 +1,10 @@
-Simple Filter Sample
-====================
+Simple Filter Mixer
+===================
 
-Simple Filter Sample is an example application for Windows Phone demonstrating the use of Nokia Imaging SDK APIs, combining multiple filters together and demonstrating each of the available filter in the SDK. This sample also demonstrates on-demand creation of the filters using reflection.
+Simple Filter Mixer is an example application for Windows Phone demonstrating the use of Nokia Imaging SDK APIs, combining multiple filters together and demonstrating each of the available filter in the SDK. This sample also demonstrates on-demand creation of the filters using reflection.
 
 This example application is hosted in GitHub:
-https://github.com/nokia-developer/simple-filter-sample/
+https://github.com/nokia-developer/simple-filter-mixer/
 
 Developed with Microsoft Visual Studio 2013.
 
@@ -73,7 +73,7 @@ License
 -------
 
 See the license text file delivered with this project:
-https://github.com/nokia-developer/simple-filter-sample/blob/master/License.txt
+https://github.com/nokia-developer/simple-filter-mixer/blob/master/License.txt
 
 
 Downloads
@@ -81,10 +81,10 @@ Downloads
 
 | Project | Release | Download |
 | ------- | --------| -------- |
-| Simple Filter Sample | v1.0 | [simple-filter-sample-1.0.zip](https://github.com/nokia-developer/simple-filter-sample/archive/v1.0.zip) |
+| Simple Filter Mixer | v1.0 | [simple-filter-sample-1.0.zip](https://github.com/nokia-developer/simple-filter-mixer/archive/v1.0.zip) |
 
 
 Version history
 ---------------
 
- * 1.0.0.0: First public release of Simple Filter Sample
+ * 1.0.0.0: First public release of Simple Filter Mixer
